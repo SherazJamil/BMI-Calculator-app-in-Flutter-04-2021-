@@ -4,6 +4,14 @@ A new Flutter application.
 
 ## Getting Started
 
+BMI Calculator app in Flutter created in (05-2021)
+
+BMI calculator app was created in May 2021
+
+Package used in this application is given below
+
+font_awesome_flutter: ^8.4.0
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
